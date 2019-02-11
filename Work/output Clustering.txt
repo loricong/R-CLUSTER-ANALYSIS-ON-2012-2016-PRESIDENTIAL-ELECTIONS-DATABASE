@@ -1,0 +1,487 @@
+[1] 0.974206
+[1] 0.9635848
+[1] 0.9420727
+[1] 0.987767
+null device 
+          1 
+groups.2
+   1    2 
+3058   54 
+groups.3
+   1    2    3 
+2178  880   54 
+groups.4
+   1    2    3    4 
+2178  880   52    2 
+$`2`
+
+   1    2 
+3058   54 
+
+$`3`
+
+   1    2    3 
+2178  880   54 
+
+$`4`
+
+   1    2    3    4 
+2178  880   52    2 
+
+$`5`
+
+   1    2    3    4    5 
+2178  472  408   52    2 
+
+$`6`
+
+   1    2    3    4    5    6 
+2178  472  404   52    2    4 
+
+$`7`
+
+   1    2    3    4    5    6    7 
+2178  318  404  154   52    2    4 
+
+$`8`
+
+   1    2    3    4    5    6    7    8 
+1173  318 1005  404  154   52    2    4 
+
+$`9`
+
+   1    2    3    4    5    6    7    8    9 
+1173  318 1005  404  124   30   52    2    4 
+
+$`10`
+
+   1    2    3    4    5    6    7    8    9   10 
+1173  318 1005  404  124   30    8   44    2    4 
+
+$`11`
+
+   1    2    3    4    5    6    7    8    9   10   11 
+1173  318 1005  176  228  124   30    8   44    2    4 
+
+$`12`
+
+   1    2    3    4    5    6    7    8    9   10   11   12 
+1173  318  553  176  228  124   30    8   44  452    2    4 
+
+$`13`
+
+  1   2   3   4   5   6   7   8   9  10  11  12  13 
+613 318 560 553 176 228 124  30   8  44 452   2   4 
+
+$`14`
+
+  1   2   3   4   5   6   7   8   9  10  11  12  13  14 
+613 318 560 553 176 228 124  30   8   7 452  37   2   4 
+
+$`15`
+
+  1   2   3   4   5   6   7   8   9  10  11  12  13  14  15 
+201 318 560 553 412 176 228 124  30   8   7 452  37   2   4 
+
+$`16`
+
+  1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16 
+201 258 560 553 412  60 176 228 124  30   8   7 452  37   2   4 
+
+$`17`
+
+  1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17 
+201 258 560 553 412  60 176 228  92  30   8  32   7 452  37   2   4 
+
+$`18`
+
+  1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18 
+201 258 560 553 412  60 119 228  92  30   8  32   7 452  37   2  57   4 
+
+$`19`
+
+  1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19 
+201 258 560 553 334  60 119 228  78  92  30   8  32   7 452  37   2  57   4 
+
+$`20`
+
+  1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20 
+201 258 560 553 334  60 119 228  78  92  30   7  32   7 452  37   2  57   4   1 
+
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[[1]]
+   [1] Autauga County         Baldwin County         Barbour County        
+   [4] Bibb County            Blount County          Bullock County        
+   [7] Butler County          Calhoun County         Chambers County       
+  [10] Cherokee County        Chilton County         Choctaw County        
+  [13] Clarke County          Clay County            Cleburne County       
+  [16] Coffee County          Colbert County         Conecuh County        
+  [19] Coosa County           Covington County       Crenshaw County       
+  [22] Cullman County         Dale County            Dallas County         
+  [25] DeKalb County          Elmore County          Escambia County       
+  [28] Etowah County          Fayette County         Franklin County       
+  [31] Geneva County          Greene County          Hale County           
+  [34] Henry County           Houston County         Jackson County        
+  [37] Jefferson County       Lamar County           Lauderdale County     
+  [40] Lawrence County        Lee County             Limestone County      
+  [43] Lowndes County         Macon County           Madison County        
+  [46] Marengo County         Marion County          Marshall County       
+  [49] Mobile County          Monroe County          Montgomery County     
+  [52] Morgan County          Perry County           Pickens County        
+  [55] Pike County            Randolph County        Russell County        
+  [58] Shelby County          St. Clair County       Sumter County         
+  [61] Talladega County       Tallapoosa County      Tuscaloosa County     
+  [64] Walker County          Washington County      Wilcox County         
+  [67] Winston County         Arkansas County        Ashley County         
+  [70] Baxter County          Benton County          Boone County          
+  [73] Bradley County         Calhoun County         Carroll County        
+  [76] Chicot County          Clark County           Clay County           
+  [79] Cleburne County        Cleveland County       Columbia County       
+  [82] Conway County          Craighead County       Crawford County       
+  [85] Crittenden County      Cross County           Dallas County         
+  [88] Desha County           Drew County            Faulkner County       
+  [91] Franklin County        Fulton County          Garland County        
+  [94] Grant County           Greene County          Hempstead County      
+  [97] Hot Spring County      Howard County          Independence County   
+ [100] Izard County           Jackson County         Jefferson County      
+ [103] Johnson County         Lafayette County       Lawrence County       
+ [106] Lee County             Lincoln County         Little River County   
+ [109] Logan County           Lonoke County          Madison County        
+ [112] Marion County          Miller County          Mississippi County    
+ [115] Monroe County          Montgomery County      Nevada County         
+ [118] Newton County          Ouachita County        Perry County          
+ [121] Phillips County        Pike County            Poinsett County       
+ [124] Polk County            Pope County            Prairie County        
+ [127] Pulaski County         Randolph County        Saline County         
+ [130] Scott County           Searcy County          Sebastian County      
+ [133] Sevier County          Sharp County           St. Francis County    
+ [136] Stone County           Union County           Van Buren County      
+ [139] Washington County      White County           Woodruff County       
+ [142] Yell County            Apache County          Cochise County        
+ [145] Coconino County        Gila County            Graham County         
+ [148] Greenlee County        La Paz County          Mohave County         
+ [151] Navajo County          Pima County            Pinal County          
+ [154] Santa Cruz County      Yavapai County         Yuma County           
+ [157] Alpine County          Amador County          Butte County          
+ [160] Calaveras County       Colusa County          Del Norte County      
+ [163] El Dorado County       Fresno County          Glenn County          
+ [166] Humboldt County        Imperial County        Inyo County           
+ [169] Kern County            Kings County           Lake County           
+ [172] Lassen County          Madera County          Marin County          
+ [175] Mariposa County        Mendocino County       Merced County         
+ [178] Modoc County           Mono County            Monterey County       
+ [181] Napa County            Nevada County          Placer County         
+ [184] Plumas County          San Benito County      San Joaquin County    
+ [187] San Luis Obispo County Santa Barbara County   Santa Cruz County     
+ [190] Shasta County          Sierra County          Siskiyou County       
+ [193] Solano County          Sonoma County          Stanislaus County     
+ [196] Sutter County          Tehama County          Trinity County        
+ [199] Tulare County          Tuolumne County        Ventura County        
+ [202] Yolo County            Yuba County            Adams County          
+ [205] Alamosa County         Arapahoe County        Archuleta County      
+ [208] Baca County            Bent County            Boulder County        
+ [211] Broomfield County      Chaffee County         Cheyenne County       
+ [214] Clear Creek County     Conejos County         Costilla County       
+ [217] Crowley County         Custer County          Delta County          
+ [220] Denver County          Dolores County         Douglas County        
+ [223] Eagle County           Elbert County          El Paso County        
+ [226] Fremont County         Garfield County        Gilpin County         
+ [229] Grand County           Gunnison County        Hinsdale County       
+ [232] Huerfano County        Jackson County         Jefferson County      
+ [235] Kiowa County           Kit Carson County      Lake County           
+ [238] La Plata County        Larimer County         Las Animas County     
+ [241] Lincoln County         Logan County           Mesa County           
+ [244] Mineral County         Moffat County          Montezuma County      
+ [247] Montrose County        Morgan County          Otero County          
+ [250] Ouray County           Park County            Phillips County       
+ [253] Pitkin County          Prowers County         Pueblo County         
+ [256] Rio Blanco County      Rio Grande County      Routt County          
+ [259] Saguache County        San Juan County        San Miguel County     
+ [262] Sedgwick County        Summit County          Teller County         
+ [265] Washington County      Weld County            Yuma County           
+ [268] Hartford County        Litchfield County      Middlesex County      
+ [271] New Haven County       New London County      Tolland County        
+ [274] Windham County         District of Columbia   Kent County           
+ [277] New Castle County      Sussex County          Alachua County        
+ [280] Baker County           Bay County             Bradford County       
+ [283] Brevard County         Calhoun County         Charlotte County      
+ [286] Citrus County          Clay County            Collier County        
+ [289] Columbia County        DeSoto County          Dixie County          
+ [292] Duval County           Escambia County        Flagler County        
+ [295] Franklin County        Gadsden County         Gilchrist County      
+ [298] Glades County          Gulf County            Hamilton County       
+ [301] Hardee County          Hendry County          Hernando County       
+ [304] Highlands County       Holmes County          Indian River County   
+ [307] Jackson County         Jefferson County       Lafayette County      
+ [310] Lake County            Lee County             Leon County           
+ [313] Levy County            Liberty County         Madison County        
+ [316] Manatee County         Marion County          Martin County         
+ [319] Monroe County          Nassau County          Okaloosa County       
+ [322] Okeechobee County      Osceola County         Pasco County          
+ [325] Pinellas County        Polk County            Putnam County         
+ [328] Santa Rosa County      Sarasota County        Seminole County       
+ [331] St. Johns County       St. Lucie County       Sumter County         
+ [334] Suwannee County        Taylor County          Union County          
+ [337] Volusia County         Wakulla County         Walton County         
+ [340] Washington County      Appling County         Atkinson County       
+ [343] Bacon County           Baker County           Baldwin County        
+ [346] Banks County           Barrow County          Bartow County         
+ [349] Ben Hill County        Berrien County         Bibb County           
+ [352] Bleckley County        Brantley County        Brooks County         
+ [355] Bryan County           Bulloch County         Burke County          
+ [358] Butts County           Calhoun County         Camden County         
+ [361] Candler County         Carroll County         Catoosa County        
+ [364] Charlton County        Chatham County         Chattahoochee County  
+ [367] Chattooga County       Cherokee County        Clarke County         
+ [370] Clay County            Clayton County         Clinch County         
+ [373] Cobb County            Coffee County          Colquitt County       
+ [376] Columbia County        Cook County            Coweta County         
+ [379] Crawford County        Crisp County           Dade County           
+ [382] Dawson County          Decatur County         DeKalb County         
+ [385] Dodge County           Dooly County           Dougherty County      
+ [388] Douglas County         Early County           Echols County         
+ [391] Effingham County       Elbert County          Emanuel County        
+ [394] Evans County           Fannin County          Fayette County        
+ [397] Floyd County           Forsyth County         Franklin County       
+ [400] Gilmer County          Glascock County        Glynn County          
+ [403] Gordon County          Grady County           Greene County         
+ [406] Gwinnett County        Habersham County       Hall County           
+ [409] Hancock County         Haralson County        Harris County         
+ [412] Hart County            Heard County           Henry County          
+ [415] Houston County         Irwin County           Jackson County        
+ [418] Jasper County          Jeff Davis County      Jefferson County      
+ [421] Jenkins County         Johnson County         Jones County          
+ [424] Lamar County           Lanier County          Laurens County        
+ [427] Lee County             Liberty County         Lincoln County        
+ [430] Long County            Lowndes County         Lumpkin County        
+ [433] Macon County           Madison County         Marion County         
+ [436] McDuffie County        McIntosh County        Meriwether County     
+ [439] Miller County          Mitchell County        Monroe County         
+ [442] Montgomery County      Morgan County          Murray County         
+ [445] Muscogee County        Newton County          Oconee County         
+ [448] Oglethorpe County      Paulding County        Peach County          
+ [451] Pickens County         Pierce County          Pike County           
+ [454] Polk County            Pulaski County         Putnam County         
+ [457] Quitman County         Rabun County           Randolph County       
+ [460] Richmond County        Rockdale County        Schley County         
+ [463] Screven County         Seminole County        Spalding County       
+ [466] Stephens County        Stewart County         Sumter County         
+ [469] Talbot County          Taliaferro County      Tattnall County       
+ [472] Taylor County          Telfair County         Terrell County        
+ [475] Thomas County          Tift County            Toombs County         
+ [478] Towns County           Treutlen County        Troup County          
+ [481] Turner County          Twiggs County          Union County          
+ [484] Upson County           Walker County          Walton County         
+ [487] Ware County            Warren County          Washington County     
+ [490] Wayne County           Webster County         Wheeler County        
+ [493] White County           Whitfield County       Wilcox County         
+ [496] Wilkes County          Wilkinson County       Worth County          
+ [499] Hawaii County          Honolulu County        Kauai County          
+ [502] Maui County            Adair County           Adams County          
+ [505] Allamakee County       Appanoose County       Audubon County        
+ [508] Benton County          Black Hawk County      Boone County          
+ [511] Bremer County          Buchanan County        Buena Vista County    
+ [514] Butler County          Calhoun County         Carroll County        
+ [517] Cass County            Cedar County           Cerro Gordo County    
+ [520] Cherokee County        Chickasaw County       Clarke County         
+ [523] Clay County            Clayton County         Clinton County        
+ [526] Crawford County        Dallas County          Davis County          
+ [529] Decatur County         Delaware County        Des Moines County     
+ [532] Dickinson County       Dubuque County         Emmet County          
+ [535] Fayette County         Floyd County           Franklin County       
+ [538] Fremont County         Greene County          Grundy County         
+ [541] Guthrie County         Hamilton County        Hancock County        
+ [544] Hardin County          Harrison County        Henry County          
+ [547] Howard County          Humboldt County        Ida County            
+ [550] Iowa County            Jackson County         Jasper County         
+ [553] Jefferson County       Johnson County         Jones County          
+ [556] Keokuk County          Kossuth County         Lee County            
+ [559] Linn County            Louisa County          Lucas County          
+ [562] Lyon County            Madison County         Mahaska County        
+ [565] Marion County          Marshall County        Mills County          
+ [568] Mitchell County        Monona County          Monroe County         
+ [571] Montgomery County      Muscatine County       O'Brien County        
+ [574] Osceola County         Page County            Palo Alto County      
+ [577] Plymouth County        Pocahontas County      Polk County           
+ [580] Pottawattamie County   Poweshiek County       Ringgold County       
+ [583] Sac County             Scott County           Shelby County         
+ [586] Sioux County           Story County           Tama County           
+ [589] Taylor County          Union County           Van Buren County      
+ [592] Wapello County         Warren County          Washington County     
+ [595] Wayne County           Webster County         Winnebago County      
+ [598] Winneshiek County      Woodbury County        Worth County          
+ [601] Wright County          Ada County             Adams County          
+ [604] Bannock County         Bear Lake County       Benewah County        
+ [607] Bingham County         Blaine County          Boise County          
+ [610] Bonner County          Bonneville County      Boundary County       
+ [613] Butte County           Camas County           Canyon County         
+ [616] Caribou County         Cassia County          Clark County          
+ [619] Clearwater County      Custer County          Elmore County         
+ [622] Franklin County        Fremont County         Gem County            
+ [625] Gooding County         Idaho County           Jefferson County      
+ [628] Jerome County          Kootenai County        Latah County          
+ [631] Lemhi County           Lewis County           Lincoln County        
+ [634] Madison County         Minidoka County        Nez Perce County      
+ [637] Oneida County          Owyhee County          Payette County        
+ [640] Power County           Shoshone County        Teton County          
+ [643] Twin Falls County      Valley County          Washington County     
+ [646] Adams County           Alexander County       Bond County           
+ [649] Boone County           Brown County           Bureau County         
+ [652] Calhoun County         Carroll County         Cass County           
+ [655] Champaign County       Christian County       Clark County          
+ [658] Clay County            Clinton County         Coles County          
+ [661] Crawford County        Cumberland County      DeKalb County         
+ [664] De Witt County         Douglas County         Edgar County          
+ [667] Edwards County         Effingham County       Fayette County        
+ [670] Ford County            Franklin County        Fulton County         
+ [673] Gallatin County        Greene County          Grundy County         
+ [676] Hamilton County        Hancock County         Hardin County         
+ [679] Henderson County       Henry County           Iroquois County       
+ [682] Jackson County         Jasper County          Jefferson County      
+ [685] Jersey County          Jo Daviess County      Johnson County        
+ [688] Kane County            Kankakee County        Kendall County        
+ [691] Knox County            LaSalle County         Lawrence County       
+ [694] Lee County             Livingston County      Logan County          
+ [697] Macon County           Macoupin County        Madison County        
+ [700] Marion County          Marshall County        Mason County          
+ [703] Massac County          McDonough County       McHenry County        
+ [706] McLean County          Menard County          Mercer County         
+ [709] Monroe County          Montgomery County      Morgan County         
+ [712] Moultrie County        Ogle County            Peoria County         
+ [715] Perry County           Piatt County           Pike County           
+ [718] Pope County            Pulaski County         Putnam County         
+ [721] Randolph County        Richland County        Rock Island County    
+ [724] Saline County          Sangamon County        Schuyler County       
+ [727] Scott County           Shelby County          St. Clair County      
+ [730] Stark County           Stephenson County      Tazewell County       
+ [733] Union County           Vermilion County       Wabash County         
+ [736] Warren County          Washington County      Wayne County          
+ [739] White County           Whiteside County       Will County           
+ [742] Williamson County      Winnebago County       Woodford County       
+ [745] Adams County           Allen County           Bartholomew County    
+ [748] Benton County          Blackford County       Boone County          
+ [751] Brown County           Carroll County         Cass County           
+ [754] Clark County           Clay County            Clinton County        
+ [757] Crawford County        Daviess County         Dearborn County       
+ [760] Decatur County         DeKalb County          Delaware County       
+ [763] Dubois County          Elkhart County         Fayette County        
+ [766] Floyd County           Fountain County        Franklin County       
+ [769] Fulton County          Gibson County          Grant County          
+ [772] Greene County          Hamilton County        Hancock County        
+ [775] Harrison County        Hendricks County       Henry County          
+ [778] Howard County          Huntington County      Jackson County        
+ [781] Jasper County          Jay County             Jefferson County      
+ [784] Jennings County        Johnson County         Knox County           
+ [787] Kosciusko County       LaGrange County        Lake County           
+ [790] LaPorte County         Lawrence County        Madison County        
+ [793] Marion County          Marshall County        Martin County         
+ [796] Miami County           Monroe County          Montgomery County     
+ [799] Morgan County          Newton County          Noble County          
+ [802] Ohio County            Orange County          Owen County           
+ [805] Parke County           Perry County           Pike County           
+ [808] Porter County          Posey County           Pulaski County        
+ [811] Putnam County          Randolph County        Ripley County         
+ [814] Rush County            Scott County           Shelby County         
+ [817] Spencer County         St. Joseph County      Starke County         
+ [820] Steuben County         Sullivan County        Switzerland County    
+ [823] Tippecanoe County      Tipton County          Union County          
+ [826] Vanderburgh County     Vermillion County      Vigo County           
+ [829] Wabash County          Warren County          Warrick County        
+ [832] Washington County      Wayne County           Wells County          
+ [835] White County           Whitley County         Allen County          
+ [838] Anderson County        Atchison County        Barber County         
+ [841] Barton County          Bourbon County         Brown County          
+ [844] Butler County          Chase County           Chautauqua County     
+ [847] Cherokee County        Cheyenne County        Clark County          
+ [850] Clay County            Cloud County           Coffey County         
+ [853] Comanche County        Cowley County          Crawford County       
+ [856] Decatur County         Dickinson County       Doniphan County       
+ [859] Douglas County         Edwards County         Elk County            
+ [862] Ellis County           Ellsworth County       Finney County         
+ [865] Ford County            Franklin County        Geary County          
+ [868] Gove County            Graham County          Grant County          
+ [871] Gray County            Greeley County         Greenwood County      
+ [874] Hamilton County        Harper County          Harvey County         
+ [877] Haskell County         Hodgeman County        Jackson County        
+ [880] Jefferson County       Jewell County          Johnson County        
+ [883] Kearny County          Kingman County         Kiowa County          
+ [886] Labette County         Lane County            Leavenworth County    
+ [889] Lincoln County         Linn County            Logan County          
+ [892] Lyon County            Marion County          Marshall County       
+ [895] McPherson County       Meade County           Miami County          
+ [898] Mitchell County        Montgomery County      Morris County         
+ [901] Morton County          Nemaha County          Neosho County         
+ [904] Ness County            Norton County          Osage County          
+ [907] Osborne County         Ottawa County          Pawnee County         
+ [910] Phillips County        Pottawatomie County    Pratt County          
+ [913] Rawlins County         Reno County            Republic County       
+ [916] Rice County            Riley County           Rooks County          
+ [919] Rush County            Russell County         Saline County         
+ [922] Scott County           Sedgwick County        Seward County         
+ [925] Shawnee County         Sheridan County        Sherman County        
+ [928] Smith County           Stafford County        Stanton County        
+ [931] Stevens County         Sumner County          Thomas County         
+ [934] Trego County           Wabaunsee County       Wallace County        
+ [937] Washington County      Wichita County         Wilson County         
+ [940] Woodson County         Wyandotte County       Adair County          
+ [943] Allen County           Anderson County        Ballard County        
+ [946] Barren County          Bath County            Bell County           
+ [949] Boone County           Bourbon County         Boyd County           
+ [952] Boyle County           Bracken County         Breathitt County      
+ [955] Breckinridge County    Bullitt County         Butler County         
+ [958] Caldwell County        Calloway County        Campbell County       
+ [961] Carlisle County        Carroll County         Carter County         
+ [964] Casey County           Christian County       Clark County          
+ [967] Clay County            Clinton County         Crittenden County     
+ [970] Cumberland County      Daviess County         Edmonson County       
+ [973] Elliott County         Estill County          Fayette County        
+ [976] Fleming County         Floyd County           Franklin County       
+ [979] Fulton County          Gallatin County        Garrard County        
+ [982] Grant County           Graves County          Grayson County        
+ [985] Green County           Greenup County         Hancock County        
+ [988] Hardin County          Harlan County          Harrison County       
+ [991] Hart County            Henderson County       Henry County          
+ [994] Hickman County         Hopkins County         Jackson County        
+ [997] Jefferson County       Jessamine County       Johnson County        
+[1000] Kenton County         
+ [ reached getOption("max.print") -- omitted 2058 entries ]
+1847 Levels: Abbeville County Acadia Parish Accomack County Ada County ... Ziebach County
+
+[[2]]
+ [1] Maricopa County       Alameda County        Contra Costa County  
+ [4] Los Angeles County    Orange County         Riverside County     
+ [7] Sacramento County     San Bernardino County San Diego County     
+[10] San Francisco County  San Mateo County      Santa Clara County   
+[13] Fairfield County      Broward County        Hillsborough County  
+[16] Miami-Dade County     Orange County         Palm Beach County    
+[19] Fulton County         Cook County           DuPage County        
+[22] Lake County           Middlesex County      Norfolk County       
+[25] Montgomery County     Oakland County        Wayne County         
+[28] Hennepin County       St. Louis County      Mecklenburg County   
+[31] Wake County           Bergen County         Middlesex County     
+[34] Clark County          Bronx County          Kings County         
+[37] Nassau County         New York County       Queens County        
+[40] Suffolk County        Westchester County    Cuyahoga County      
+[43] Franklin County       Allegheny County      Montgomery County    
+[46] Philadelphia County   Bexar County          Dallas County        
+[49] Harris County         Tarrant County        Travis County        
+[52] Fairfax County        King County           Milwaukee County     
+1847 Levels: Abbeville County Acadia Parish Accomack County Ada County ... Ziebach County
+
+        
+groups.2  AL  AR  AZ  CA  CO  CT  DC  DE  FL  GA  HI  IA  ID  IL  IN  KS  KY  LA  MA
+       1  67  75  14  47  64   7   1   3  62 158   4  99  44  99  92 105 120  64  12
+       2   0   0   1  11   0   1   0   0   5   1   0   0   0   3   0   0   0   0   2
+        
+groups.2  MD  ME  MI  MN  MO  MS  MT  NC  ND  NE  NH  NJ  NM  NV  NY  OH  OK  OR  PA
+       1  23  16  81  86 114  82  56  98  53  93  10  19  33  16  55  86  77  36  64
+       2   1   0   2   1   1   0   0   2   0   0   0   2   0   1   7   2   0   0   3
+        
+groups.2  RI  SC  SD  TN  TX  UT  VA  VT  WA  WI  WV  WY
+       1   5  46  66  95 249  29 132  14  38  71  55  23
+       2   0   0   0   0   5   0   1   0   1   1   0   0
